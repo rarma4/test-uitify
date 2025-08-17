@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Ana Silva 1",
+    "company": "Ploomes",
+    "email": "user1@example.com",
+    "source": "Indicação",
+    "score": 23,
+    "status": "Novo"
+  },
+  {
+    "id": "2",
+    "name": "Bruno Castro 2",
+    "company": "Bravi",
+    "email": "user2@example.com",
+    "source": "Website",
+    "score": 45,
+    "status": "Contatado"
+  },
+  {
+    "id": "3",
+    "name": "Carla Dias 3",
+    "company": "Acme",
+    "email": "user3@example.com",
+    "source": "Evento",
+    "score": 67,
+    "status": "Qualificado"
+  },
+  {
+    "id": "4",
+    "name": "Diego Lima 4",
+    "company": "Globex",
+    "email": "user4@example.com",
+    "source": "Indicação",
+    "score": 12,
+    "status": "Perdido"
+  },
+  {
+    "id": "5",
+    "name": "Eduarda Rocha 5",
+    "company": "Ploomes",
+    "email": "user5@example.com",
+    "source": "Website",
+    "score": 89,
+    "status": "Novo"
+  },
+  {
+    "id": "6",
+    "name": "Felipe Maia 6",
+    "company": "Bravi",
+    "email": "user6@example.com",
+    "source": "Evento",
+    "score": 34,
+    "status": "Contatado"
+  },
+  {
+    "id": "7",
+    "name": "Gabi Alves 7",
+    "company": "Acme",
+    "email": "user7@example.com",
+    "source": "Indicação",
+    "score": 78,
+    "status": "Qualificado"
+  },
+  {
+    "id": "8",
+    "name": "Hugo Costa 8",
+    "company": "Globex",
+    "email": "user8@example.com",
+    "source": "Website",
+    "score": 56,
+    "status": "Perdido"
+  }
+]
